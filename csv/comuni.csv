@@ -77,7 +77,7 @@
 023076,San Pietro in Cariano,I109,00261520233,VR,023,Verona,05,Veneto,Nord-est,ITH31,37029,false,sanpietroincariano.vr@cert.ip-veneto.net,protocollo@comune.sanpietroincariano.vr.it,Via Chopin 3,37029,www.comune.sanpietroincariano.vr.it
 023077,Sant'Ambrogio di Valpolicella,I259,00242770238,VR,023,Verona,05,Veneto,Nord-est,ITH31,37015,false,s.ambrogiovalp@postemailcertificata.it,"","Via Sengio,1",37015,www.comune.santambrogio.vr.it
 023078,Sant'Anna d'Alfaedo,I292,00796760239,VR,023,Verona,05,Veneto,Nord-est,ITH31,37020,false,comune.santannadalfaedo.vr@pecveneto.it,protocollo@comune.santannadalfaedo.verona.it,Via Roma 4,37020,www.comune.santannadalfaedo.verona.it
-023079,San Zeno di Montagna,I414,00414190231,VR,023,Verona,05,Veneto,Nord-est,ITH31,37010,false,sanzenodimontagna.vr@cert.ip-veneto.net,"",Contrada Ca' Montagna,37010,www.comunesanzenodimontagna.it
+023079,San Zeno di Montagna,I414,00414190231,VR,023,Verona,05,Veneto,Nord-est,ITH31,37010,false,sanzenodimontagna.vr@cert.ip-veneto.net,"",Contrada Ca' Montagna,37010,https://comune.sanzenodimontagna.vr.it/
 023080,Selva di Progno,I594,83001510235,VR,023,Verona,05,Veneto,Nord-est,ITH31,37030,false,segreteria.selva@pec.it,segreteria@comuneselvadiprogno.it,"Piazza Prof. B. G. Cappelletti, 1",37030,www.comune.selvadiprogno.vr.it
 023081,Soave,I775,83000070231,VR,023,Verona,05,Veneto,Nord-est,ITH31,37038,false,soave.vr@cert.ip-veneto.net,info@comunesoave.it,"Via Giulio Camuzzoni, 8",37038,www.comune.soave.vr.it
 023082,Sommacampagna,I821,00259810232,VR,023,Verona,05,Veneto,Nord-est,ITH31,"37060,37066",true,sommacampagna.vr@cert.ip-veneto.net,affari.generali@comune.sommacampagna.vr.it,Piazza Carlo Alberto 1,37066,www.comune.sommacampagna.vr.it/
@@ -382,7 +382,7 @@
 027017,Fossò,D748,00661280271,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30030,false,amministrazione@pec.comune.fosso.ve.it,urp@comune.fosso.ve.it,"Piazza Marconi, 3",30030,www.comune.fosso.ve.it
 027018,Gruaro,E215,00311380273,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30020,false,comune.gruaro.ve@pecveneto.it,area.amministrativa@comune.gruaro.ve.it,"Piazza Dal Ben, 9",30020,www.comune.gruaro.ve.it
 027019,Jesolo,C388,00608720272,VE,227,Venezia,05,Veneto,Nord-est,ITH35,"30016,30017",true,comune.jesolo@legalmail.it,comunicazione@comune.jesolo.ve.it,"v. S. Antonio, 11",30016,www.comune.jesolo.ve.it
-027020,Marcon,E936,82002050274,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30020,false,protocollo.comune.marcon.ve@pecveneto.it,protocollo@comune.marcon.ve.it,p. Municipio 20,30020,www.comune.marcon.ve.it
+027020,Marcon,E936,82002050274,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30020,false,protocollo.comune.marcon.ve@pecveneto.it,protocollo@comune.marcon.ve.it,Piazza della Libertà n. 1,30020,www.comune.marcon.ve.it
 027021,Martellago,E980,82003170279,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30030,false,comune.martellago.ve@pecveneto.it,info@comune.martellago.ve.it,"Piazza Della Vittoria, 1",30030,https://www.comune.martellago.ve.it
 027022,Meolo,F130,93001510275,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30020,false,comune.meolo.ve@pecveneto.it,meolo@comune.meolo.ve.it,Piazza Martiri Della Liberta 1,30020,www.comune.meolo.ve.it
 027023,Mira,F229,00368570271,VE,227,Venezia,05,Veneto,Nord-est,ITH35,30034,false,comune.mira.ve@pecveneto.it,info@comune.mira.ve.it,"Piazza IX Martiri, 3",30034,www.comune.mira.ve.it
