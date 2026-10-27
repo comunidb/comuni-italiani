@@ -14,7 +14,7 @@ superficie, popolazione e CAP per via: [comunidb.it](https://comunidb.it/#prezzi
 
 | File | Contenuto |
 |---|---|
-| `csv/comuni.csv` | Un comune per riga: codici, provincia, regione, CAP principale, `multi_cap`, PEC, email, indirizzo e sito del comune |
+| `csv/comuni.csv` | Un comune per riga: codici, provincia, regione, CAP (uno, o più separati da virgola), `multi_cap`, PEC, email, indirizzo e sito del comune |
 | `csv/cap.csv` | Tutte le coppie `codice_istat`–`cap`: i comuni con più CAP hanno una riga per CAP |
 | `csv/province.csv` | Le province del Veneto, con il numero di comuni |
 | `csv/regioni.csv` | La regione, con il numero di province e di comuni |
