@@ -208,7 +208,7 @@
 024126,Colceresa,M426,04203260247,VI,024,Vicenza,05,Veneto,Nord-est,ITH32,"36060,36064",true,comune.colceresa.vi@cert.ip-veneto.net,"","Via G. Marconi, 56",36064,www.comune.colceresa.vi.it
 024127,Lusiana Conco,M427,04203480241,VI,024,Vicenza,05,Veneto,Nord-est,ITH32,"36046,36062",true,comune.lusianaconco.vi@pecveneto.it,"","Viale Marco Poli, 2",36046,www.comune.lusianaconco.vi.it
 024128,Sovizzo,M436,04506950247,VI,024,Vicenza,05,Veneto,Nord-est,ITH32,"36049,36050",true,sovizzo.vi@cert.ip-veneto.net,protocollo@comune.sovizzo.vi.it,Via CAVALIERI DI VITTORIO VENETO N. 21,36049,www.comune.sovizzo.vi.it/
-024129,Castegnero Nanto,M439,"",VI,024,Vicenza,05,Veneto,Nord-est,ITH32,"36020,36024",true,comune.castegneronanto.vi@pecveneto.it,"",Via Mercato 43,36024,www.comune.castegneronanto.vi.it
+024129,Castegnero Nanto,M439,04634700241,VI,024,Vicenza,05,Veneto,Nord-est,ITH32,"36020,36024",true,comune.castegneronanto.vi@pecveneto.it,"",Via Mercato 43,36024,www.comune.castegneronanto.vi.it
 025001,Agordo,A083,00103340253,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32021,false,comune.agordo.bl@pecveneto.it,agordo@comune.agordo.bl.it,Piazzale Guglielmo Marconi 1,32021,www.comune.agordo.bl.it
 025003,Alleghe,A206,00145920252,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32022,false,serv.amm.comune.alleghe.bl@pecveneto.it,alleghe@agordino.bl.it,"Corso Italia, 36",32022,www.comune.alleghe.bl.it
 025004,Arsiè,A443,00207780255,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32030,false,arsie.bl@cert.ip-veneto.net,arsie@comune.arsie.bl.it,Piazza Marconi N.1,32030,https://www.comune.arsie.bl.it/
@@ -251,7 +251,7 @@
 025050,Santo Stefano di Cadore,C919,00184890259,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32045,false,comune.santostefanodicadore@pec.it,"",Santo Stefano Di Cadore,32045,https://www.comune.santostefanodicadore.bl.it
 025051,San Vito di Cadore,I392,00206310252,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32046,false,sanvitocadore.bl@cert.ip-veneto.net,protocollo@comune.sanvitodicadore.bl.it,"Corso Italia, 43",32046,www.comune.sanvitodicadore.bl.it
 025053,Sedico,I563,00176800258,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32036,false,sedico.bl@cert.ip-veneto.net,"","Piazza Della Vittoria, 21",32036,www.comune.sedico.bl.it
-025054,Selva di Cadore,I592,80005530250,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32020,false,comune.selva.bl@pecveneto.it,protocollo.selva@agordino.bl.it,"Piazza San Lorenzo, 2",32020,www.comune.selvadicadore.bl.it
+025054,Selva di Cadore,I592,00207470253,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32020,false,comune.selva.bl@pecveneto.it,protocollo.selva@agordino.bl.it,"Piazza San Lorenzo, 2",32020,www.comune.selvadicadore.bl.it
 025055,Seren del Grappa,I626,00185930252,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32030,false,seren.bl@cert.ip-veneto.net,"","Piazza T. Vecellio,19",32030,www.comune.serendelgrappa.bl.it
 025056,Sospirolo,I866,00164110256,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32037,false,sospirolo.bl@cert.ip-veneto.net,protocollo@comune.sospirolo.bl.it,"Via Della Costituzione, 91",32037,www.comune.sospirolo.bl.it
 025057,Soverzene,I876,00206600256,BL,025,Belluno,05,Veneto,Nord-est,ITH33,32010,false,comune.soverzene.bl@pecveneto.it,protocollo@comune.soverzene.bl.it,Via Val Gallina 5,32010,https://www.comune.soverzene.bl.it/it
