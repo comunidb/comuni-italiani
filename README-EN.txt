@@ -1,6 +1,6 @@
 COMUNIDB: ITALIAN MUNICIPALITIES DATABASE (FREE SAMPLE)
 
-Release of 14 November 2026: 559 municipalities (comuni), 649 municipality/postal code pairs,
+Release of 16 November 2026: 559 municipalities (comuni), 649 municipality/postal code pairs,
 7 provinces, 1 regions. https://comunidb.it/en/
 
 The column names and the place names are Italian, as in the official sources. This file says what

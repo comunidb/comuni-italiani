@@ -6,7 +6,7 @@ Elenco aggiornato dei comuni del **Veneto** con **CAP** (anche per i comuni con 
 **PEC**, email e indirizzo del municipio, **codice ISTAT**, **codice catastale**, codice fiscale,
 provincia e regione. In CSV, pronto da importare.
 
-Dati modificati l'ultima volta il **14 novembre 2026**, verificati sulle fonti ufficiali il **14 novembre 2026**:
+Dati modificati l'ultima volta il **16 novembre 2026**, verificati sulle fonti ufficiali il **16 novembre 2026**:
 559 comuni, 649 coppie comune/CAP, 7 province. Le fonti sono ricontrollate ogni
 settimana; i file cambiano solo quando cambiano i dati.
 
@@ -100,7 +100,7 @@ The municipalities of the **Veneto** region of Italy with their **postal codes**
 several), **certified email (PEC)**, email and town hall address, **ISTAT code**, **cadastral (Belfiore) code**, tax
 code, province and region. CSV, ready to import.
 
-Data last changed on **14 November 2026**, checked against the official sources on **14 November 2026**: 559
+Data last changed on **16 November 2026**, checked against the official sources on **16 November 2026**: 559
 municipalities, 649 municipality/postal code pairs, 7 provinces. The sources are checked every week; the files change
 only when the data change.
 
